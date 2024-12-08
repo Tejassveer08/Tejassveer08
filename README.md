@@ -65,6 +65,7 @@
   <a href="https://open.spotify.com/user/uphwqn8ovrgoqjjquqvihhp49/"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></a>
   <a href="https://leetcode.com/u/Tejass0809/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></a>
   <a href="mailto:tejassveersingh@gmail.com/"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://discordapp.com/users/777032313699172382/"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 
