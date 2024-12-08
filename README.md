@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on Machine Learning and Web Development.
 - 🌱 I’m currently learning and creating projects in **React.js, C++, Python**  
-- 💬 Recently started my Leetcode Journey, Check out my progress here  <a href="https://leetcode.com/u/Tejass0809/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></a>
+- 💬 Interested in exploring Game Development and Deep Learning.
 - 📫 Open for Internships and learning opportunities.
 - ⚡ Fun fact: I'm great at everything except coding. 
 
@@ -61,6 +61,7 @@
   <a href="https://www.linkedin.com/in/tejassveer-singh-vasant-8a91ba239/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <a href="https://www.instagram.com/tejass.veer/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
   <a href="https://open.spotify.com/user/uphwqn8ovrgoqjjquqvihhp49/"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></a>
+  <a href="https://leetcode.com/u/Tejass0809/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></a>
 </p>
 
 
