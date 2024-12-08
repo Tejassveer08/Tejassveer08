@@ -9,7 +9,7 @@
 <p align="left"> I try not to look down on people, but I guess I have to. (yeah I'm a tall Indian, and you thought diamonds are rare) </p>
 <p align ="left"> Ex-Sports guy trying his hand on a computer. </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avikapoor24&label=Profile%20views&color=0e75b6&style=flat" alt="avikapoor24" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tejassveer08&label=Profile%20views&color=0e75b6&style=flat" alt="Tejassveer08" /> </p>
 
 - 🔭 I’m currently working on Machine Learning and Web Development.
 - 🌱 I’m currently learning and creating projects in **React.js, C++, Python**  
