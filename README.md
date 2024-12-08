@@ -5,9 +5,9 @@
 
 #### About Me
 
-A newbie on github, and any other renowned coding platform you can think of. 
-I try not to look down on people, but I guess I have to. (yeah I'm a tall Indian, and you thought diamonds are rare) 
-Ex-Sports guy trying his hand on a computer.
+<p align="left"> A newbie on github, and any other renowned coding platform you can think of. </p>
+<p align="left"> I try not to look down on people, but I guess I have to. (yeah I'm a tall Indian, and you thought diamonds are rare) </p>
+<p align ="left"> Ex-Sports guy trying his hand on a computer. </p>
 
 - 🔭 I’m currently working on Machine Learning and Web Development.
 - 🌱 I’m currently learning and creating projects in **React.js, C++, Python**  
